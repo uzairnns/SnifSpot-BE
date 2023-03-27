@@ -1,0 +1,15 @@
+development:
+  cloud_name: "uzair66"
+  api_key: "269979614388497"
+  api_secret: "329k_RaE8mKcMheaYRB4j-Uroxw"
+  secure: true
+  enhance_image_tag: true
+  static_file_support: false
+
+production:
+  cloud_name: "uzair66"
+  api_key: "269979614388497"
+  api_secret: "329k_RaE8mKcMheaYRB4j-Uroxw"
+  secure: true
+  enhance_image_tag: true
+  static_file_support: false
